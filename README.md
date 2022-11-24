@@ -25,4 +25,9 @@ IoT device setup:
 ![image](https://user-images.githubusercontent.com/63698805/203826592-872adf94-b08b-40b8-a401-b69214ec21f0.png) ![316613222_531629095508170_2519224450054969624_n](https://user-images.githubusercontent.com/63698805/203827878-043f3111-1861-4fef-a013-e67faf6f060f.jpg)
 
 
+Update incoming:
+-Project Report
 
+-Real PCB
+
+-Node Red Dashboard
