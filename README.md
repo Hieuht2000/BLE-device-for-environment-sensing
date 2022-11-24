@@ -1,5 +1,4 @@
 # Embedded-project-course
-Embedded project final course
 
 
 In this project, I had made a small bluetooth device to monitoring environment sensing like: Sound loudness, temperature, humidity, pressure, air quality...
