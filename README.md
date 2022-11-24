@@ -23,7 +23,7 @@ In this setup, we will make a smal device serve as an IoT sensor, actually an ar
 ![image](https://user-images.githubusercontent.com/63698805/203826592-872adf94-b08b-40b8-a401-b69214ec21f0.png) ![316613222_531629095508170_2519224450054969624_n](https://user-images.githubusercontent.com/63698805/203827878-043f3111-1861-4fef-a013-e67faf6f060f.jpg)
 ## Previewing and Debugging BLE Device Services
 
-Before looking at the code running on the Raspberry Pi, I use  nRF Connect for Mobiles to preview and debug the Environmental Sensing service running on the Arduino and being advertised over BLE.
+Before looking at the code running on the Raspberry Pi, I use  nRF Connect for Mobiles to preview and debug the Environmental Sensing service running on the device and being advertised over BLE.
 
 
 ![316844916_1535448263587459_5619001640392204036_n](https://user-images.githubusercontent.com/63698805/203832576-641bf12c-c177-456d-8d55-cdfa22173e1b.jpg)![316606099_532851551754137_6837968930547414721_n](https://user-images.githubusercontent.com/63698805/203832944-b3cc2afd-c080-43f0-88af-46ae710af289.jpg)
