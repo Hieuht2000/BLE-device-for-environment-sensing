@@ -4,11 +4,11 @@
 In this project, I had made a small bluetooth device to monitoring environment sensing like: Sound loudness, temperature, humidity, pressure, air quality...
 After that, a rasperry pi 4B was used as a BLE gateway to receive data from the device and using MQTT to publish and vizualize the data using Node-Red.
 
-Project overview:
+# Project overview:
 
 ![image](https://user-images.githubusercontent.com/63698805/203825455-a8bed558-0973-4766-89e2-432b2fd8693c.png)
 
-IoT device setup:
+# IoT device setup:
 
 -MCU: XIAO nrf52840
 
@@ -25,7 +25,8 @@ IoT device setup:
 ![image](https://user-images.githubusercontent.com/63698805/203826592-872adf94-b08b-40b8-a401-b69214ec21f0.png) ![316613222_531629095508170_2519224450054969624_n](https://user-images.githubusercontent.com/63698805/203827878-043f3111-1861-4fef-a013-e67faf6f060f.jpg)
 
 
-Update incoming:
+# Update incoming:
+
 -Project Report
 
 -Real PCB
