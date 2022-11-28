@@ -6,7 +6,8 @@ After that, a rasperry pi 4B was used as a BLE gateway to receive data from the 
 
 ## Project overview:
 
-![image](https://user-images.githubusercontent.com/63698805/203825455-a8bed558-0973-4766-89e2-432b2fd8693c.png)
+![image](https://user-images.githubusercontent.com/63698805/204251410-c156735d-f2f0-43d6-b1c6-982e4dec66c0.png)
+
 
 ## IoT device setup:
 
@@ -42,7 +43,10 @@ To act as the BLE Client (aka central device), the Raspberry Pi runs a Python sc
 
 * Preview:
 
-![312012928_3248604738727880_330571658152287546_n](https://user-images.githubusercontent.com/63698805/203835665-86f69f0a-0329-4fd4-9e0a-06a45b4245e2.png)
+![image](https://user-images.githubusercontent.com/63698805/204251594-18e62808-5be5-42a1-9f0c-c30fa68f8ecb.png)
+
+![image](https://user-images.githubusercontent.com/63698805/204251677-afcbfd2f-234c-4786-a005-340a6bf14b39.png)
+
 
 
 ## Update incoming:
