@@ -21,7 +21,7 @@ In this setup, we will make a smal device serve as an IoT sensor, actually an ar
 * Lithium battery to power the device.
 
 
-![image](https://user-images.githubusercontent.com/63698805/203826592-872adf94-b08b-40b8-a401-b69214ec21f0.png) ![316613222_531629095508170_2519224450054969624_n](https://user-images.githubusercontent.com/63698805/203827878-043f3111-1861-4fef-a013-e67faf6f060f.jpg)
+![image](https://user-images.githubusercontent.com/63698805/204611551-cdb88ad5-83cf-4c16-ae90-fd6f31bf0e2d.png) ![316613222_531629095508170_2519224450054969624_n](https://user-images.githubusercontent.com/63698805/203827878-043f3111-1861-4fef-a013-e67faf6f060f.jpg)
 ## Previewing and Debugging BLE Device Services
 
 Before looking at the code running on the Raspberry Pi, I use  nRF Connect for Mobiles to preview and debug the Environmental Sensing service running on the device and being advertised over BLE.
