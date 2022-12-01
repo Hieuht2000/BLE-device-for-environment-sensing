@@ -27,7 +27,7 @@ In this setup, we will make a smal device serve as an IoT sensor, actually an ar
 Before looking at the code running on the Raspberry Pi, I use  nRF Connect for Mobiles to preview and debug the Environmental Sensing service running on the device and being advertised over BLE.
 
 
-![316844916_1535448263587459_5619001640392204036_n](https://user-images.githubusercontent.com/63698805/203832576-641bf12c-c177-456d-8d55-cdfa22173e1b.jpg)![316606099_532851551754137_6837968930547414721_n](https://user-images.githubusercontent.com/63698805/203832944-b3cc2afd-c080-43f0-88af-46ae710af289.jpg)
+![image](https://user-images.githubusercontent.com/63698805/205026544-03d6d34b-2dba-453b-9f8a-71470658d935.png)![image](https://user-images.githubusercontent.com/63698805/205026652-1ac47443-d089-459d-9fc9-29fa919f2802.png)
 
 
 ## IoT gateway setup:
@@ -39,7 +39,7 @@ To act as the BLE Client (aka central device), the Raspberry Pi runs a Python sc
 
 ![316130815_839430733934008_3642109668385598030_n](https://user-images.githubusercontent.com/63698805/203835482-cf2be516-5163-432a-a7a7-eb536b00e0f6.png)
 
-## Node-Red Dashboard(not complete):
+## Node-Red Dashboard:
 
 * Preview:
 
@@ -50,9 +50,6 @@ To act as the BLE Client (aka central device), the Raspberry Pi runs a Python sc
 
 
 ## Update incoming:
-
--Project Report
-
 -Real PCB
 
 -Node Red Dashboard
